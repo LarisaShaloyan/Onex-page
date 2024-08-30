@@ -1,0 +1,42 @@
+/*.magazine*/
+/*{*/
+/*    align-items: center;*/
+/*    height:100px;*/
+/*    width:300px;*/
+/*    text-align: center;*/
+/*    padding:10px;*/
+/*    margin:10px;*/
+/*}*/
+.xanut{
+    width:160px;
+    height:60px;
+    cursor:pointer;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+.xanut:hover{
+    color:white;
+    background-color: black;
+}
+.xanut1{
+    display:grid;
+    grid-template-columns:auto auto auto;
+    padding:10px;
+
+}
+.xanut2{
+
+    border: 1px solid lightgoldenrodyellow;
+    width:200px;
+    padding:20px;
+    margin:10px;
+
+}
+ img.class{
+    height:100px;
+    width: 100px;
+    margin:5px;
+     cursor:pointer;
+
+}

@@ -1,0 +1,38 @@
+.table{
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+    margin:10px;
+    padding:5px;
+
+}
+tr{
+    background-color:darkseagreen;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+th{
+    background-color: black;
+    color: white;
+}
+th, td {
+    padding: 12px 15px;
+}
+table, th, td {
+    border: 1px solid #dddddd;
+}
+th {
+    background-color: #009879;
+    color: white;
+}
+
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+fa-timer{
+    color:black;
+}

@@ -1,0 +1,20 @@
+.btn{
+    color:green;
+    cursor:pointer;
+    height:35px;
+    width:65px;
+    margin:5px;
+    padding:5px;
+
+}
+.btn:hover{
+    background-color: black;
+    color:greenyellow;
+}
+.input{
+    margin:20px;
+    height:40px;
+    width: 700px;
+    background-color:floralwhite;
+}
+

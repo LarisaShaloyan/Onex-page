@@ -1,0 +1,20 @@
+.btn{
+    color:green;
+    cursor:pointer;
+    height:50px;
+    width:100px;
+    margin:5px;
+    padding:5px;
+
+    
+}
+.btn:hover{
+    background-color: black;
+    color:greenyellow;
+}
+.input{
+    height:50px;
+    width: 700px;
+    font-family: 'Arial', sans-serif;
+
+}

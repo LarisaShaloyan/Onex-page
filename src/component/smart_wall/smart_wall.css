@@ -1,0 +1,28 @@
+.OnexSmartWall{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap:10px;
+}
+.OnexSmartWall div{
+    height: 300px;
+    border-radius: 15px;
+}
+iframe{
+    width: 100%;
+    border-radius: 15px;
+}
+.btn5{
+
+    border-radius: 10px;
+    color:darkgreen;
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    cursor:pointer;
+    padding:10px;
+    margin:10px;
+}
+.btn5:hover{
+    background-color: black;
+    color:white;
+}

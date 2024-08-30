@@ -1,0 +1,18 @@
+ img.class{
+
+    height: 250px;
+    width: 250px;
+    cursor: pointer;
+
+}
+.items{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    margin:25px;
+
+}
+.item{
+    height: 300px;
+    width: 300px;
+    border: 1px solid antiquewhite;
+}

@@ -1,0 +1,30 @@
+.name{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    margin: 7px;
+}
+.btn1{
+    height: 70px;
+    width: 150px;
+    cursor:pointer;
+    border-radius: 10px;
+    margin: 30px;
+}
+.btn1:hover
+{
+    background-color: black;
+    color:greenyellow;
+}
+
+
+/*.grid{*/
+/*    display:grid;*/
+/*    grid-template-columns: 50% 50%;*/
+/*  gap:10px;*/
+/*    height: 250px;*/
+/*}*/
+.grid{
+    display:grid;
+  grid-template-columns: 50% 50%;
+}
